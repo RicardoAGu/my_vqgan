@@ -1,0 +1,12 @@
+后台运行，标准输出和标准错误全部丢到垃圾桶里
+nohup ${command} /dev/null 2>&1 &
+
+后台运行，标准输出和标准错误都扔到文件log.txt里
+nohup ${command} >log.txt 2>&1 &
+
+可选的指令command列表:
+1. 在GPU4 5 6 7上并行训练自定义vqgan模型。(只包含编码器和解码器, transformer要自己训练)
+python main.py --base configs/custom_vqgan.yaml -t True --gpus 4,5,6,7
+
+2. 在GPU4 5 6 7上并行训练自定义transformer模型，用于学习离散化code book。
+python main.py --base configs/custom_transformer.yaml -t True --gpus 4,5,6,7

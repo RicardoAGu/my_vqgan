@@ -1,0 +1,179 @@
+./data/NB1 dataset/AION/戴爵年OD/戴爵年OD5.JPG
+./data/NB1 dataset/BRVO/鲍善昌OD.jpg
+./data/NB1 dataset/BRVO/黄爱珍OS/黄爱珍h_015.jpg
+./data/NB1 dataset/BRVO/黄爱珍OS/黄爱珍h_022.jpg
+./data/NB1 dataset/BRVO/陈雪舟OD/陈雪舟OD4.png
+./data/NB1 dataset/BRVO/陈雪舟OD/陈雪舟OD1.png
+./data/NB1 dataset/BRVO/蔡俊芳OS/蔡俊芳c_030.jpg
+./data/NB1 dataset/BRVO/蔡俊芳OS/蔡俊芳c_018.jpg
+./data/NB1 dataset/CRVO/周惠英OD/周惠英z_006.png
+./data/NB1 dataset/CRVO/周惠英OD/周惠英z_004.png
+./data/NB1 dataset/CRVO/范恩波OD/范恩波_005.png
+./data/NB1 dataset/CRVO/梁国君OS/梁国君l_018.jpg
+./data/NB1 dataset/CRVO/梁国君OS/梁国君l_028.jpg
+./data/NB1 dataset/CRVO/梁国君OS/梁国君l_019.jpg
+./data/NB1 dataset/CRVO/梁国君OS/梁国君l_021.jpg
+./data/NB1 dataset/CRVO/陈贤炳OS/陈贤炳c_020.jpg
+./data/NB1 dataset/CRVO/陈贤炳OS/陈贤炳c_024.jpg
+./data/NB1 dataset/CSC/陈德海OD/陈德海c_003.png
+./data/NB1 dataset/CSC/陈德海OD/陈德海c_006.png
+./data/NB1 dataset/CSC/黄德光OD/黄德光h_001.jpg
+./data/NB1 dataset/CSC/戴瑞岳OD/戴瑞岳d_003.png
+./data/NB1 dataset/CSC/戴瑞岳OD/戴瑞岳d_004.png
+./data/NB1 dataset/ERM/陈全岳OD/陈全岳c_002.png
+./data/NB1 dataset/ERM/谢利华OS/谢利华x_003.jpg
+./data/NB1 dataset/NPDR/陈聪娟OS/陈聪娟c_015.jpg
+./data/NB1 dataset/NPDR/陈聪娟OS/陈聪娟c_022.jpg
+./data/NB1 dataset/NPDR/陈聪娟OS/陈聪娟c_021.jpg
+./data/NB1 dataset/NPDR/3 OS/3 OS2.png
+./data/NB1 dataset/NPDR/3 OS/3 OS6.png
+./data/NB1 dataset/NPDR/4 OD/4 OD7.png
+./data/NB1 dataset/NPDR/4 OD/4 OD9.png
+./data/NB1 dataset/NPDR/陈回青OS/陈回青c_022.jpg
+./data/NB1 dataset/NPDR/陈回青OS/陈回青c_021.jpg
+./data/NB1 dataset/NPDR/陈回青OS/陈回青c_020.jpg
+./data/NB1 dataset/NPDR/白明彦OS/白明彦b_029.jpg
+./data/NB1 dataset/NPDR/白明彦OS/白明彦b_019.jpg
+./data/NB1 dataset/NPDR/白明彦OS/白明彦b_021.jpg
+./data/NB1 dataset/NPDR/白明彦OS/白明彦b_023.jpg
+./data/NB1 dataset/NPDR/白明彦OS/白明彦b_024.jpg
+./data/NB1 dataset/NPDR/陈松芳OS/陈松芳c_015.jpg
+./data/NB1 dataset/NPDR/蔡良妹OD/蔡良妹c_003.jpg
+./data/NB1 dataset/NPDR/11 OS/11 OS13.png
+./data/NB1 dataset/NPDR/11 OS/11 OS5.png
+./data/NB1 dataset/NPDR/11 OS/11 OS10.png
+./data/NB1 dataset/NPDR/11 OS/11 OS8.png
+./data/NB1 dataset/NPDR/14 OD/14 OD2.png
+./data/NB1 dataset/NPDR/14 OD/14 OD10.png
+./data/NB1 dataset/NPDR/戴恩国OD/戴恩国d_011.jpg
+./data/NB1 dataset/NPDR/戴恩国OD/戴恩国d_002.jpg
+./data/NB1 dataset/NPDR/2 OS/2 OS10.png
+./data/NB1 dataset/NPDR/2 OS/2 OS3.png
+./data/NB1 dataset/NPDR/2 OS/2 OS5.png
+./data/NB1 dataset/NPDR/3 OD/3 OD13.png
+./data/NB1 dataset/NPDR/3 OD/3 OD2.png
+./data/NB1 dataset/NPDR/3 OD/3 OD9.png
+./data/NB1 dataset/NPDR/3 OD/3 OD10.png
+./data/NB1 dataset/NPDR/3 OD/3 OD8.png
+./data/NB1 dataset/NPDR/白明彦OD/白明彦b_013.jpg
+./data/NB1 dataset/NPDR/白明彦OD/白明彦b_005.jpg
+./data/NB1 dataset/NPDR/白明彦OD/白明彦b_003.jpg
+./data/NB1 dataset/NPDR/陈聪娟OD/陈聪娟c_004.jpg
+./data/NB1 dataset/NPDR/陈聪娟OD/陈聪娟c_003.jpg
+./data/NB1 dataset/NPDR/陈聪娟OD/陈聪娟c_009.jpg
+./data/NB1 dataset/NPDR/陈聪娟OD/陈聪娟c_005.jpg
+./data/NB1 dataset/NPDR/8 OD/8 OD6.png
+./data/NB1 dataset/NPDR/陈卫忠OD/陈卫忠c_013.jpg
+./data/NB1 dataset/NPDR/陈卫忠OD/陈卫忠c_005.jpg
+./data/NB1 dataset/NPDR/5 OD/5 OD3.png
+./data/NB1 dataset/NPDR/戴恩国OS/戴恩国d_040.jpg
+./data/NB1 dataset/NPDR/戴恩国OS/戴恩国d_030.jpg
+./data/NB1 dataset/NPDR/戴恩国OS/戴恩国d_020.jpg
+./data/NB1 dataset/NPDR/戴恩国OS/戴恩国d_031.jpg
+./data/NB1 dataset/NPDR/13 OD/13 OD6.png
+./data/NB1 dataset/NPDR/13 OD/13 OD7.png
+./data/NB1 dataset/NPDR/13 OD/13 OD2.png
+./data/NB1 dataset/NPDR/陈回青OD/陈回青c_009.jpg
+./data/NB1 dataset/NPDR/陈回青OD/陈回青c_010.jpg
+./data/NB1 dataset/NPDR/7 OS/7 OS6.png
+./data/NB1 dataset/NPDR/7 OS/7 OS2.png
+./data/NB1 dataset/NPDR/7 OD/7 OD4.png
+./data/NB1 dataset/NPDR/7 OD/7 OD12.png
+./data/NB1 dataset/NPDR/陈红飞OS/陈红飞c_016.jpg
+./data/NB1 dataset/NPDR/陈红飞OS/陈红飞c_027.jpg
+./data/NB1 dataset/NPDR/陈红飞OS/陈红飞c_017.jpg
+./data/NB1 dataset/NPDR/12 OD/12 OD3.png
+./data/NB1 dataset/NPDR/5 OS/5 OS7.png
+./data/NB1 dataset/NPDR/5 OS/5 OS10.png
+./data/NB1 dataset/NPDR/1 OS/1 OS7.png
+./data/NB1 dataset/NPDR/1 OS/1 OS1.png
+./data/NB1 dataset/NPDR/2 OD/2 OD6.png
+./data/NB1 dataset/NPDR/2 OD/2 OD1.png
+./data/NB1 dataset/NPDR/陈惠国OS/陈惠国c_017.jpg
+./data/NB1 dataset/NPDR/陈惠国OS/陈惠国c_026.jpg
+./data/NB1 dataset/NPDR/8 OS/8 OS1.png
+./data/NB1 dataset/NPDR/8 OS/8 OS8.png
+./data/NB1 dataset/NPDR/8 OS/8 OS5.png
+./data/NB1 dataset/NPDR/8 OS/8 OS3.png
+./data/NB1 dataset/NPDR/包磊OD/包磊b_011.jpg
+./data/NB1 dataset/NPDR/包磊OD/包磊b_002.jpg
+./data/NB1 dataset/NPDR/包磊OD/包磊b_006.jpg
+./data/NB1 dataset/NPDR/陈先田OD/陈先田1c_003.jpg
+./data/NB1 dataset/NPDR/陈先田OD/陈先田1c_013.jpg
+./data/NB1 dataset/NPDR/陈先田OD/陈先田1c_005.jpg
+./data/NB1 dataset/NPDR/陈水菊OD/陈水菊c_005.jpg
+./data/NB1 dataset/NPDR/陈水菊OD/陈水菊c_004.jpg
+./data/NB1 dataset/NPDR/包磊OS/包磊b_018.jpg
+./data/NB1 dataset/NPDR/14 OS/14 OS8.png
+./data/NB1 dataset/NPDR/14 OS/14 OS7.png
+./data/NB1 dataset/NPDR/14 OS/14 OS5.png
+./data/NB1 dataset/NPDR/4 OS/4 OS6.png
+./data/NB1 dataset/NPDR/4 OS/4 OS3.png
+./data/NB1 dataset/NPDR/4 OS/4 OS8.png
+./data/NB1 dataset/NPDR/4 OS/4 OS4.png
+./data/NB1 dataset/NPDR/10 OS/10 OS8.png
+./data/NB1 dataset/NPDR/10 OS/10 OS4.png
+./data/NB1 dataset/Normal/储鑫燕OS/储鑫燕c_040.jpg
+./data/NB1 dataset/Normal/储鑫燕OS/储鑫燕c_039.jpg
+./data/NB1 dataset/Normal/储鑫燕OS/储鑫燕c_038.jpg
+./data/NB1 dataset/Normal/储鑫燕OS/储鑫燕c_027.jpg
+./data/NB1 dataset/Normal/储鑫燕OS/储鑫燕c_047.jpg
+./data/NB1 dataset/Normal/孔梦霞OD/孔梦霞k_011.jpg
+./data/NB1 dataset/Normal/段清华OS/段清华d_036.jpg
+./data/NB1 dataset/Normal/段清华OS/段清华d_024.jpg
+./data/NB1 dataset/Normal/段清华OD/段清华d_006.jpg
+./data/NB1 dataset/Normal/段清华OD/段清华d_004.jpg
+./data/NB1 dataset/Normal/段清华OD/段清华d_009.jpg
+./data/NB1 dataset/Normal/董国伟OS/董国伟d_037.jpg
+./data/NB1 dataset/Normal/董国伟OS/董国伟d_036.jpg
+./data/NB1 dataset/Normal/董国伟OS/董国伟d_032.jpg
+./data/NB1 dataset/Normal/杜刚OD/杜刚d_004.jpg
+./data/NB1 dataset/Normal/杜刚OD/杜刚d_011.jpg
+./data/NB1 dataset/Normal/戴碧妃OS/戴碧妃d_056.jpg
+./data/NB1 dataset/Normal/白艳萍OS/白艳萍b_017.jpg
+./data/NB1 dataset/Normal/杜刚OS/杜刚d_026.jpg
+./data/NB1 dataset/Normal/杜刚OS/杜刚d_025.jpg
+./data/NB1 dataset/Normal/杜刚OS/杜刚d_019.jpg
+./data/NB1 dataset/Normal/黄倩倩OD/黄倩倩h_026.jpg
+./data/NB1 dataset/Normal/黄倩倩OD/黄倩倩h_005.jpg
+./data/NB1 dataset/Normal/黄倩倩OD/黄倩倩h_027.jpg
+./data/NB1 dataset/Normal/黄倩倩OD/黄倩倩h_017.jpg
+./data/NB1 dataset/Normal/黄倩倩OD/黄倩倩h_014.jpg
+./data/NB1 dataset/Normal/丁家惠OS/丁家惠d_031.jpg
+./data/NB1 dataset/Normal/丁家惠OS/丁家惠d_023.jpg
+./data/NB1 dataset/Normal/丁家惠OS/丁家惠d_030.jpg
+./data/NB1 dataset/Normal/龚刚强OS/龚刚强g_028.jpg
+./data/NB1 dataset/Normal/龚刚强OS/龚刚强g_027.jpg
+./data/NB1 dataset/Normal/龚刚强OS/龚刚强g_026.jpg
+./data/NB1 dataset/Normal/庞云来OD/庞云来OD2.JPG
+./data/NB1 dataset/Normal/葛忠伟OD/葛忠伟g_012.jpg
+./data/NB1 dataset/Normal/邬友芬OS/邬友芬OS1.JPG
+./data/NB1 dataset/Normal/高丽秧OD/高丽秧g_016.jpg
+./data/NB1 dataset/Normal/白艳萍OD/白艳萍b_006.jpg
+./data/NB1 dataset/Normal/韩鹏OD/韩鹏h_014.jpg
+./data/NB1 dataset/Normal/储鑫燕OD/储鑫燕c_022.jpg
+./data/NB1 dataset/Normal/储鑫燕OD/储鑫燕c_008.jpg
+./data/NB1 dataset/Normal/储鑫燕OD/储鑫燕c_015.jpg
+./data/NB1 dataset/PDR/9 OS/9 OS2.png
+./data/NB1 dataset/PDR/9 OS/9 OS4.png
+./data/NB1 dataset/PDR/10 OD/10 OD10.png
+./data/NB1 dataset/PDR/10 OD/10 OD6.png
+./data/NB1 dataset/PDR/9 OD/9 OD8.png
+./data/NB1 dataset/PDR/9 OD/9 OD6.png
+./data/NB1 dataset/PDR/9 OD/9 OD5.png
+./data/NB1 dataset/PDR/11 OD/11 OD10.png
+./data/NB1 dataset/PDR/11 OD/11 OD3.png
+./data/NB1 dataset/PDR/11 OD/11 OD8.png
+./data/NB1 dataset/PDR/蔡良妹OS/蔡良妹c_020.jpg
+./data/NB1 dataset/dryAMD/董敖定OS/董敖定d_003.png
+./data/NB1 dataset/dryAMD/戴宝梅OS/戴宝梅左眼_002.png
+./data/NB1 dataset/wAMD/傅雅眉OD/傅雅眉f_012.jpg
+./data/NB1 dataset/wAMD/傅雅眉OD/傅雅眉f_004.jpg
+./data/NB1 dataset/wAMD/蔡俊芳OD/蔡俊芳c_006.jpg
+./data/NB1 dataset/wAMD/蔡俊芳OD/蔡俊芳c_003.jpg
+./data/NB1 dataset/wAMD/戴正东OD/戴正东右眼_005.png
+./data/NB1 dataset/wAMD/胡士根OD/胡士根h_007.jpg
+./data/NB1 dataset/wAMD/胡士根OD/胡士根h_020.jpg
+./data/NB1 dataset/wAMD/鲍淑琴OD/鲍淑琴AMD_002.png
+./data/NB1 dataset/wAMD/戴正东OS/戴正东左眼_002.png
+./data/NB1 dataset/wAMD/董敖定OD/董敖定_005.png
